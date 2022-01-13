@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rj180492
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning SQL, Python
+- 🌱 I’m currently learning SQL, Python,R and Data science tools
 - 💞️ I’m looking to collaborate on data science, analytics projects
 - 📫 How to reach me rj180492@gmail.com
 
